@@ -1,8 +1,7 @@
-package main.java.list.set.OperacoesBasicas;
+package main.java.set.OperacoesBasicas;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Stream;
 
 public class ConjuntoPalavrasUnicas {
     //atributos
